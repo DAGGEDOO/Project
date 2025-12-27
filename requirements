@@ -1,0 +1,10 @@
+Required libraries
+
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+dash
